@@ -6,4 +6,4 @@ on:
 
 jobs:
   bloquear:
-    uses: bernahg91/treew-central-workflows/.github/workflows/block-on-invalid-commit.yml@main
+    uses: bernahg91/treew-central-workflowstest/.github/workflows/block-on-invalid-commit.yml@main
