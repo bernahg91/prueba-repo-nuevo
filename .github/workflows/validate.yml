@@ -7,4 +7,3 @@ on:
 jobs:
   validar:
     uses: bernahg91/treew-central-workflowstest/.github/workflows/validate-commits.yml@main
-
