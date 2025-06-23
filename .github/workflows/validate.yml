@@ -6,4 +6,4 @@ on:
 
 jobs:
   validar:
-    uses: treew-org/central-workflows/.github/workflows/validate-commits.yml@main
+    uses: bernahg91/treew-central-workflows/.github/workflows/validate-commits.yml@main
